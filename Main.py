@@ -1,3 +1,4 @@
+import webbrowser
 print("Hello! I am AI Bot. What's your name? ")
 name = input().strip()
 
